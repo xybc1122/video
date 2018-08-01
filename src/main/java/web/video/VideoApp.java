@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 @MapperScan("web.video.mapper")
 public class VideoApp {
-	//≤‚ ‘Ã·Ωª
+	//tis is test demo
     public static  void main(String[] args){
         SpringApplication.run(VideoApp.class, args);
     }
